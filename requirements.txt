@@ -1,3 +1,4 @@
+# requirements for required python libraries
 
 google-cloud-secret-manager
 google-cloud-storage
