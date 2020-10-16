@@ -1,3 +1,6 @@
+# requirements for required python libraries
+# test a hook comment for commit 
+#new commit msg hook check
 
 google-cloud-secret-manager
 google-cloud-storage
